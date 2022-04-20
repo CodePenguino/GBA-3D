@@ -1,5 +1,5 @@
-# GBA-3D-Demo
-A small project trying to get a triangle (and later 3D) rendering on the Gameboy Advanced
+# GBA-3D
+A small project trying to get 3D rendering on the Gameboy Advanced
 
 # How to compile
 
@@ -10,6 +10,7 @@ type the following to compile and run your program
 ```
 make && ./run
 ```
+I can't find any reliable tutorials on how to do that, so just try your luck at that.
 
 Note: Make sure you have gcc and make installed either by using
 ```

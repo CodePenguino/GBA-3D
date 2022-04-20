@@ -1,0 +1,6 @@
+
+
+-I
+/opt/devkitpro/libtonc/include
+-L
+/opt/devkitpro/libtonc/lib

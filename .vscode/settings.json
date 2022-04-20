@@ -1,0 +1,19 @@
+{
+	"files.associations": {
+		"string.h": "c",
+		"math.h": "c",
+		"util.h": "c",
+		"stdbool.h": "c",
+		"tonc.h": "c",
+		"collision.h": "c",
+		"*.tcc": "c",
+		"chrono": "c",
+		"cinttypes": "c",
+		"cmath": "c",
+		"numeric": "c",
+		"ratio": "c",
+		"cstdlib": "c",
+		"mesh.h": "c",
+		"vec2.h": "c"
+	}
+}

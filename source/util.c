@@ -215,7 +215,7 @@ void m4_fillTriangle(vec2 v0, vec2 v1, vec2 v2, u8 c)
 }
 
 // YOLO >:D (definitely not just copy-pasted from libtonc and edited so it runs slightly faster)
-// TODO: Make this in ASSembly
+// TODO: Make this in assembly
 void m4_scuffedDrawHLine(u8 x1, u8 y, u8 x2, u8 clr, void* dstBase, uint dstP)
 {
 	// --- Normalize ---
